@@ -1,0 +1,93 @@
+Data e Hora,Tipo de Evento,Descrição,Usuário/Veículo,Origem,Destino,Tempo de Resposta (segundos),Status,Observações
+2023-10-27 08:00:00,Acesso Veículo,Entrada de veículo,ABC-1234,Portão Principal,Garagem,5,Autorizado,Morador
+2023-10-27 08:05:00,Acesso Pedestre,Entrada de pedestre,João Silva,Portão Social,Área Comum,2,Autorizado,Morador
+2023-10-27 08:15:00,Acesso Visitante,Entrada de visitante,Maria Souza,Portão Principal,Apartamento 101,10,Autorizado,Visitante de Pedro Santos
+2023-10-27 08:30:00,Acesso Veículo,Saída de veículo,ABC-1234,Garagem,Portão Principal,3,Autorizado,Morador
+2023-10-27 09:00:00,Acesso Veículo,Entrada de veículo,XYZ-5678,Portão de Serviço,Área de Serviço,15,Autorizado,Prestador de Serviço
+2023-10-27 09:10:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão Principal,,0,Negado,Sem identificação
+2023-10-27 09:15:00,Alarme,Alarme de porta aberta,Portão Social,,0,Ativado,Porta aberta por tempo excessivo
+2023-10-27 09:30:00,Acesso Visitante,Entrada de visitante,Carlos Oliveira,Portão Principal,Apartamento 202,8,Autorizado,Entregador
+2023-10-27 10:00:00,Acesso Veículo,Entrada de veículo,ABC-1234,Portão Principal,Garagem,4,Autorizado,Morador
+2023-10-27 10:10:00,Acesso Pedestre,Saída de pedestre,João Silva,Área Comum,Portão Social,1,Autorizado,Morador
+2023-10-27 10:30:00,Acesso Visitante,Saída de visitante,Maria Souza,Apartamento 101,Portão Principal,6,Autorizado,Visitante de Pedro Santos
+2023-10-27 11:00:00,Acesso Veículo,Saída de veículo,XYZ-5678,Área de Serviço,Portão de Serviço,12,Autorizado,Prestador de Serviço
+2023-10-27 11:30:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão de Serviço,,0,Negado,Horário fora do permitido
+2023-10-27 12:00:00,Acesso Veículo,Entrada de veículo,DEF-9012,Portão Principal,Garagem,7,Autorizado,Morador
+2023-10-27 12:15:00,Acesso Pedestre,Entrada de pedestre,Ana Paula,Portão Social,Área Comum,3,Autorizado,Morador
+2023-10-27 12:30:00,Acesso Visitante,Entrada de visitante,Ricardo Gomes,Portão Principal,Apartamento 303,9,Autorizado,Visitante de Laura Mendes
+2023-10-27 13:00:00,Acesso Veículo,Saída de veículo,DEF-9012,Garagem,Portão Principal,5,Autorizado,Morador
+2023-10-27 13:30:00,Acesso Visitante,Saída de visitante,Ricardo Gomes,Apartamento 303,Portão Principal,7,Autorizado,Visitante de Laura Mendes
+2023-10-27 14:00:00,Alarme,Alarme de cerca elétrica,Perímetro,,0,Ativado,Possível tentativa de invasão
+2023-10-27 14:15:00,Acesso Pedestre,Entrada de pedestre,Fernanda Lima,Portão Social,Área da Piscina,2,Autorizado,Morador
+2023-10-27 14:30:00,Acesso Veículo,Entrada de veículo,GHI-3456,Portão de Serviço,Área de Descarga,10,Autorizado,Fornecedor
+2023-10-27 15:00:00,Acesso Visitante,Entrada de visitante,Lucas Rodrigues,Portão Principal,Apartamento 404,7,Autorizado,Visitante de Patrícia Oliveira
+2023-10-27 15:30:00,Acesso Pedestre,Saída de pedestre,Ana Paula,Área Comum,Portão Social,3,Autorizado,Morador
+2023-10-27 16:00:00,Acesso Veículo,Saída de veículo,GHI-3456,Área de Descarga,Portão de Serviço,8,Autorizado,Fornecedor
+2023-10-27 16:15:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão Principal,,0,Negado,Cartão inválido
+2023-10-27 16:30:00,Acesso Visitante,Saída de visitante,Lucas Rodrigues,Apartamento 404,Portão Principal,5,Autorizado,Visitante de Patrícia Oliveira
+2023-10-27 17:00:00,Acesso Veículo,Entrada de veículo,JKL-6789,Portão Principal,Garagem,6,Autorizado,Morador
+2023-10-27 17:30:00,Acesso Pedestre,Entrada de pedestre,Roberto Souza,Portão Social,Salão de Festas,4,Autorizado,Morador
+2023-10-27 18:00:00,Acesso Veículo,Saída de veículo,JKL-6789,Garagem,Portão Principal,7,Autorizado,Morador
+2023-10-27 18:30:00,Alarme,Alarme de incêndio,Área Comum,,0,Ativado,Fumaça detectada
+2023-10-27 19:00:00,Acesso Pedestre,Saída de pedestre,Roberto Souza,Salão de Festas,Portão Social,5,Autorizado,Morador
+2023-10-27 19:30:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão de Serviço,,0,Negado,Sem autorização prévia
+2023-10-27 20:00:00,Acesso Veículo,Entrada de veículo,MNO-0123,Portão Principal,Garagem,8,Autorizado,Morador
+2023-10-27 20:30:00,Acesso Visitante,Entrada de visitante,Isabela Costa,Portão Principal,Apartamento 505,6,Autorizado,Visitante de Daniel Pereira
+2023-10-27 21:00:00,Acesso Veículo,Saída de veículo,MNO-0123,Garagem,Portão Principal,4,Autorizado,Morador
+2023-10-27 21:30:00,Acesso Visitante,Saída de visitante,Isabela Costa,Apartamento 505,Portão Principal,9,Autorizado,Visitante de Daniel Pereira
+2023-10-27 22:00:00,Alarme,Alarme de porta aberta,Portão da Garagem,,0,Ativado,Porta aberta após horário limite
+2023-10-27 22:30:00,Acesso Veículo,Entrada de veículo,UVW-3456,Portão Principal,Garagem,5,Autorizado,Morador
+2023-10-27 23:00:00,Acesso Pedestre,Entrada de pedestre,Mariana Alves,Portão Social,Área Comum,3,Autorizado,Morador
+2023-10-27 23:30:00,Acesso Veículo,Saída de veículo,UVW-3456,Garagem,Portão Principal,6,Autorizado,Morador
+2023-10-28 00:00:00,Alarme,Alarme de cerca elétrica,Perímetro,,0,Ativado,Movimento suspeito detectado
+2023-10-28 00:30:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão Principal,,0,Negado,Sem identificação
+2023-10-28 01:00:00,Acesso Pedestre,Saída de pedestre,Mariana Alves,Área Comum,Portão Social,2,Autorizado,Morador
+2023-10-28 01:30:00,Acesso Veículo,Entrada de veículo,GHI-7890,Portão de Serviço,Área de Descarga,10,Autorizado,Fornecedor
+2023-10-28 02:00:00,Acesso Veículo,Saída de veículo,GHI-7890,Área de Descarga,Portão de Serviço,8,Autorizado,Fornecedor
+2023-10-28 02:30:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão de Serviço,,0,Negado,Horário fora do permitido
+2023-10-28 03:00:00,Alarme,Alarme de incêndio,Área Comum,,0,Ativado,Calor excessivo detectado
+2023-10-28 03:30:00,Acesso Veículo,Entrada de veículo,DEF-5678,Portão Principal,Garagem,7,Autorizado,Morador
+2023-10-28 04:00:00,Acesso Pedestre,Entrada de pedestre,Paulo Roberto,Portão Social,Área Comum,4,Autorizado,Morador
+2023-10-28 04:30:00,Acesso Veículo,Saída de veículo,DEF-5678,Garagem,Portão Principal,5,Autorizado,Morador
+2023-10-28 05:00:00,Acesso Pedestre,Saída de pedestre,Paulo Roberto,Área Comum,Portão Social,3,Autorizado,Morador
+2023-10-28 05:30:00,Acesso Visitante,Entrada de visitante,Camila Ferreira,Portão Principal,Apartamento 606,9,Autorizado,Visitante de Juliana Almeida
+2023-10-28 06:00:00,Acesso Visitante,Saída de visitante,Camila Ferreira,Apartamento 606,Portão Principal,6,Autorizado,Visitante de Juliana Almeida
+2023-10-28 06:30:00,Acesso Veículo,Entrada de veículo,ABC-9012,Portão Principal,Garagem,6,Autorizado,Morador
+2023-10-28 07:00:00,Acesso Pedestre,Entrada de pedestre,Fernanda Souza,Portão Social,Área da Piscina,2,Autorizado,Morador
+2023-10-28 07:30:00,Acesso Veículo,Saída de veículo,ABC-9012,Garagem,Portão Principal,7,Autorizado,Morador
+2023-10-28 08:00:00,Acesso Veículo,Entrada de veículo,HIJ-2345,Portão Principal,Garagem,6,Autorizado,Morador
+2023-10-28 08:15:00,Acesso Pedestre,Entrada de pedestre,Daniela Martins,Portão Social,Área Comum,3,Autorizado,Morador
+2023-10-28 08:30:00,Acesso Visitante,Entrada de visitante,Gustavo Pereira,Portão Principal,Apartamento 707,8,Autorizado,Visitante de Fernanda Costa
+2023-10-28 09:00:00,Acesso Veículo,Saída de veículo,HIJ-2345,Garagem,Portão Principal,5,Autorizado,Morador
+2023-10-28 09:30:00,Acesso Visitante,Saída de visitante,Gustavo Pereira,Apartamento 707,Portão Principal,7,Autorizado,Visitante de Fernanda Costa
+2023-10-28 10:00:00,Alarme,Alarme de porta aberta,Portão da Piscina,,0,Ativado,Porta aberta por tempo excessivo
+2023-10-28 10:15:00,Acesso Pedestre,Saída de pedestre,Daniela Martins,Área Comum,Portão Social,2,Autorizado,Morador
+2023-10-28 10:30:00,Acesso Veículo,Entrada de veículo,LMN-6789,Portão de Serviço,Área de Descarga,10,Autorizado,Fornecedor
+2023-10-28 11:00:00,Acesso Visitante,Entrada de visitante,Juliana Santos,Portão Principal,Apartamento 808,7,Autorizado,Visitante de Ricardo Oliveira
+2023-10-28 11:30:00,Acesso Veículo,Saída de veículo,LMN-6789,Área de Descarga,Portão de Serviço,8,Autorizado,Fornecedor
+2023-10-28 12:00:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão Principal,,0,Negado,Cartão inválido
+2023-10-28 12:30:00,Acesso Visitante,Saída de visitante,Juliana Santos,Apartamento 808,Portão Principal,6,Autorizado,Visitante de Ricardo Oliveira
+2023-10-28 13:00:00,Acesso Veículo,Entrada de veículo,OPQ-0123,Portão Principal,Garagem,5,Autorizado,Morador
+2023-10-28 13:15:00,Acesso Pedestre,Entrada de pedestre,Leonardo Castro,Portão Social,Salão de Festas,4,Autorizado,Morador
+2023-10-28 13:30:00,Acesso Veículo,Saída de veículo,OPQ-0123,Garagem,Portão Principal,6,Autorizado,Morador
+2023-10-28 14:00:00,Alarme,Alarme de cerca elétrica,Perímetro,,0,Ativado,Possível tentativa de invasão
+2023-10-28 14:30:00,Acesso Pedestre,Saída de pedestre,Leonardo Castro,Salão de Festas,Portão Social,3,Autorizado,Morador
+2023-10-28 15:00:00,Acesso Visitante,Entrada de visitante,Beatriz Almeida,Portão Principal,Apartamento 909,9,Autorizado,Visitante de Marcelo Souza
+2023-10-28 15:30:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão de Serviço,,0,Negado,Horário fora do permitido
+2023-10-28 16:00:00,Acesso Visitante,Saída de visitante,Beatriz Almeida,Apartamento 909,Portão Principal,7,Autorizado,Visitante de Marcelo Souza
+2023-10-28 16:30:00,Acesso Veículo,Entrada de veículo,RST-4567,Portão Principal,Garagem,7,Autorizado,Morador
+2023-10-28 17:00:00,Acesso Pedestre,Entrada de pedestre,Patrícia Rodrigues,Portão Social,Área da Piscina,2,Autorizado,Morador
+2023-10-28 17:30:00,Acesso Veículo,Saída de veículo,RST-4567,Garagem,Portão Principal,5,Autorizado,Morador
+2023-10-28 18:00:00,Alarme,Alarme de incêndio,Área Comum,,0,Ativado,Fumaça detectada
+2023-10-28 18:30:00,Acesso Pedestre,Saída de pedestre,Patrícia Rodrigues,Área da Piscina,Portão Social,4,Autorizado,Morador
+2023-10-28 19:00:00,Acesso Visitante,Entrada de visitante,Rafael Fernandes,Portão Principal,Apartamento 1001,6,Autorizado,Visitante de Carla Nunes
+2023-10-28 19:30:00,Tentativa de Acesso,Acesso não autorizado,Desconhecido,Portão Principal,,0,Negado,Sem identificação
+2023-10-28 20:00:00,Acesso Visitante,Saída de visitante,Rafael Fernandes,Apartamento 1001,Portão Principal,8,Autorizado,Visitante de Carla Nunes
+2023-10-28 20:30:00,Acesso Veículo,Entrada de veículo,UVW-8901,Portão de Serviço,Área de Descarga,10,Autorizado,Fornecedor
+2023-10-28 21:00:00,Acesso Veículo,Saída de veículo,UVW-8901,Área de Descarga,Portão de Serviço,12,Autorizado,Fornecedor
+2023-10-28 21:30:00,Acesso Pedestre,Entrada de pedestre,Camila Oliveira,Portão Social,Área Comum,3,Autorizado,Morador
+2023-10-28 22:00:00,Alarme,Alarme de porta aberta,Portão da Garagem,,0,Ativado,Porta aberta após horário limite
+2023-10-28 22:30:00,Acesso Pedestre,Saída de pedestre,Camila Oliveira,Área Comum,Portão Social,2,Autorizado,Morador
+2023-10-28 23:00:00,Acesso Veículo,Entrada de veículo,XYZ-2345,Portão Principal,Garagem,5,Autorizado,Morador
+2023-10-28 23:30:00,Acesso Veículo,Saída de veículo,XYZ-2345,Garagem,Portão Principal,6,Autorizado,Morador
+2023-10-29 00:00:00,Alarme,Alarme de cerca elétrica,Perímetro,,0,Ativado,Movimento suspeito detectado
