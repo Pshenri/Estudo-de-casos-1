@@ -10,5 +10,6 @@ Visualização de Dados: Apresenta os resultados da análise em gráficos inform
 Armazenamento de Dados: Armazena os dados analisados em um banco de dados SQLite para facilitar a consulta e análise futura.
 Alertas de Acessos Críticos: Exibe alertas detalhados para acessos classificados como críticos.
 
-NOME: PEDRO HENRI QUE ALVES DE CAMPOS RGM:29548152
-NOMD: Henry Kauã de Oliveira Cavalcanti
+NOME: Pedro Henrique Alves de Campos
+
+NOME: Henry Kauã de Oliveira Cavalcanti
